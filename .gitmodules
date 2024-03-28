@@ -1,0 +1,3 @@
+[submodule "lsqlite3"]
+	path = lsqlite3
+	url = https://github.com/Heyter/lsqlite3.git
